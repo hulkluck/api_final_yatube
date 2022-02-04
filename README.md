@@ -36,7 +36,7 @@
 ```html
     pip install -r requirements.txt 
 ```
-- Создаем в корне приложения файл .env по аналогии с файлом .env.example
+- Создаем в корне приложения файл .env
 ```html
     touch .env
 ```
